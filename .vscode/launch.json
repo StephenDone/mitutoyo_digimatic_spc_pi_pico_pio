@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "Debug Caliper Readout",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "mitutoyo_caliper_readout"
+        }
+    ]
+}
