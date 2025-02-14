@@ -1,9 +1,8 @@
 import time
-from machine import Pin #, Timer
-# import rp2
-# import sys
+from machine import Pin
 from utilisation import Utilisation
 from digimatic import MitutoyoGauge
+
 #region IO Comments
 
 # IO Config for original single interface
@@ -55,7 +54,7 @@ from digimatic import MitutoyoGauge
 # An example class holding some information relating to each gauge
 class GaugeState:
     def __init__(self):
-        self.start_time = time.ticks_ms()
+        self.store_start_time()
 
     def store_start_time(self):
         self.start_time = time.ticks_ms()
