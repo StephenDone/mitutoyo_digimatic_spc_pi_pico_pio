@@ -24,7 +24,14 @@ If you find this code useful, or find a bug, please drop me a message by creatin
 ## A Proper PCB
 I've designed a 6-channel board with EasyEDA and have sent it to JLPCB. If it works, I'll update this section.
 
-![PCB](https://github.com/user-attachments/assets/72e5d316-2d85-4483-93ce-5d9b92593cae)
+<img src="https://github.com/user-attachments/assets/72e5d316-2d85-4483-93ce-5d9b92593cae" width=400/>
+
+It worked!
+
+<img src="https://github.com/user-attachments/assets/5c466752-560f-4d29-ae87-271b7f3fc757" width=400/>
+<br/>
+<img src="https://github.com/user-attachments/assets/0dec4457-d145-4a9f-960a-a982f7024beb" width=400/>
+
 
 ## Other Resources
 <a href="http://www.matronics.com/cncscale/DiagramRev2.pdf">http://www.matronics.com/cncscale/DiagramRev2.pdf</a>
